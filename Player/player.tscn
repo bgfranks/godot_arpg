@@ -106,6 +106,7 @@ script = ExtResource("1_pfhmo")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_tjfvl")
+offset = Vector2(0, -8)
 hframes = 4
 vframes = 7
 

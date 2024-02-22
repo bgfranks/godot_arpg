@@ -850,6 +850,7 @@ texture = ExtResource("2_knyvv")
 0:0/size_in_atlas = Vector2i(2, 2)
 0:0/0 = 0
 0:0/0/texture_origin = Vector2i(-8, 8)
+0:0/0/y_sort_origin = 7
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_72k52"]
 texture = ExtResource("3_vi5e6")
